@@ -26,7 +26,7 @@
 | 07 | [Stacks (стеки)](07-stacks/README.md) | готово |
 | 08 | [Heaps (кучи)](08-heaps/README.md) | готово |
 | 09 | [Intervals (интервалы)](09-intervals/README.md) | готово |
-| 10 | Prefix Sums (префиксные суммы) | — |
+| 10 | [Prefix Sums (префиксные суммы)](10-prefix-sums/README.md) | готово |
 | 11 | Trees (деревья) | — |
 | 12 | Tries (префиксные деревья) | — |
 | 13 | Graphs (графы) | — |

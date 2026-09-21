@@ -34,7 +34,7 @@
 | 15 | [Dynamic Programming (динамическое программирование)](15-dynamic-programming/README.md) | готово |
 | 16 | [Greedy (жадные алгоритмы)](16-greedy/README.md) | готово |
 | 17 | [Sort and Search (сортировка и поиск)](17-sort-and-search/README.md) | готово |
-| 18 | Bit Manipulation (битовые операции) | — |
+| 18 | [Bit Manipulation (битовые операции)](18-bit-manipulation/README.md) | готово |
 | 19 | Math and Geometry (математика и геометрия) | — |
 
 ## Запуск тестов

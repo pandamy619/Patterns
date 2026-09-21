@@ -24,7 +24,7 @@
 | 05 | [Sliding Windows (скользящее окно)](05-sliding-windows/README.md) | готово |
 | 06 | [Binary Search (бинарный поиск)](06-binary-search/README.md) | готово |
 | 07 | [Stacks (стеки)](07-stacks/README.md) | готово |
-| 08 | Heaps (кучи) | — |
+| 08 | [Heaps (кучи)](08-heaps/README.md) | готово |
 | 09 | Intervals (интервалы) | — |
 | 10 | Prefix Sums (префиксные суммы) | — |
 | 11 | Trees (деревья) | — |

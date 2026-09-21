@@ -23,7 +23,7 @@
 | 04 | [Fast and Slow Pointers (быстрый и медленный указатели)](04-fast-and-slow-pointers/README.md) | готово |
 | 05 | [Sliding Windows (скользящее окно)](05-sliding-windows/README.md) | готово |
 | 06 | [Binary Search (бинарный поиск)](06-binary-search/README.md) | готово |
-| 07 | Stacks (стеки) | — |
+| 07 | [Stacks (стеки)](07-stacks/README.md) | готово |
 | 08 | Heaps (кучи) | — |
 | 09 | Intervals (интервалы) | — |
 | 10 | Prefix Sums (префиксные суммы) | — |

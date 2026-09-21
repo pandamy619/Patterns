@@ -30,7 +30,7 @@
 | 11 | [Trees (деревья)](11-trees/README.md) | готово |
 | 12 | [Tries (префиксные деревья)](12-tries/README.md) | готово |
 | 13 | [Graphs (графы)](13-graphs/README.md) | готово |
-| 14 | Backtracking (перебор с возвратом) | — |
+| 14 | [Backtracking (перебор с возвратом)](14-backtracking/README.md) | готово |
 | 15 | Dynamic Programming (динамическое программирование) | — |
 | 16 | Greedy (жадные алгоритмы) | — |
 | 17 | Sort and Search (сортировка и поиск) | — |

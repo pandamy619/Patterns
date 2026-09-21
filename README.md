@@ -29,7 +29,7 @@
 | 10 | [Prefix Sums (префиксные суммы)](10-prefix-sums/README.md) | готово |
 | 11 | [Trees (деревья)](11-trees/README.md) | готово |
 | 12 | [Tries (префиксные деревья)](12-tries/README.md) | готово |
-| 13 | Graphs (графы) | — |
+| 13 | [Graphs (графы)](13-graphs/README.md) | готово |
 | 14 | Backtracking (перебор с возвратом) | — |
 | 15 | Dynamic Programming (динамическое программирование) | — |
 | 16 | Greedy (жадные алгоритмы) | — |

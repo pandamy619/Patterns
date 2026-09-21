@@ -21,7 +21,7 @@
 | 02 | [Hash Maps and Sets (хеш-таблицы и множества)](02-hash-maps-and-sets/README.md) | готово |
 | 03 | [Linked Lists (связные списки)](03-linked-lists/README.md) | готово |
 | 04 | [Fast and Slow Pointers (быстрый и медленный указатели)](04-fast-and-slow-pointers/README.md) | готово |
-| 05 | Sliding Windows (скользящее окно) | — |
+| 05 | [Sliding Windows (скользящее окно)](05-sliding-windows/README.md) | готово |
 | 06 | Binary Search (бинарный поиск) | — |
 | 07 | Stacks (стеки) | — |
 | 08 | Heaps (кучи) | — |

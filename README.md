@@ -18,7 +18,7 @@
 | № | Паттерн | Статус |
 |---|---|---|
 | 01 | [Two Pointers (два указателя)](01-two-pointers/README.md) | готово |
-| 02 | Hash Maps and Sets (хеш-таблицы и множества) | — |
+| 02 | [Hash Maps and Sets (хеш-таблицы и множества)](02-hash-maps-and-sets/README.md) | готово |
 | 03 | Linked Lists (связные списки) | — |
 | 04 | Fast and Slow Pointers (быстрый и медленный указатели) | — |
 | 05 | Sliding Windows (скользящее окно) | — |
